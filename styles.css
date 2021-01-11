@@ -1,0 +1,41 @@
+.bottle {
+    display: flex;
+    background-color:#c6d9e9;
+}
+.small-height {
+    height: 200px;
+}
+
+.small-width {
+    width: 250px;
+}
+
+.green-frame {
+    border: 10px ridge #00FFCC;
+    padding: 5px;
+}
+
+.black-frame {
+    border: 5px solid black;
+    padding: 10px;
+}
+
+.pink-frame {
+    border: 8px double #E4A4EE;
+    padding: 6px;
+}
+
+.circle {
+    border-radius: 50%;
+}
+
+
+img {
+    margin: 8px;
+     
+}
+
+div {
+    padding: 40px;
+  
+}
